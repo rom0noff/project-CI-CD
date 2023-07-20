@@ -1,1 +1,1 @@
-# project-CI-CD
+# CI-CD
